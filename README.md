@@ -1,2 +1,1 @@
-# ssea
-just another repoisrtory
+pirnt("udtignsj")
